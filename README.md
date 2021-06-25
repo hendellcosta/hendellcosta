@@ -3,7 +3,7 @@
 </div>
 
 <div class="body">
-<p>- 👀 I’m interested in Node.js...
+<p>- 👀 I’m interested in Node.js.
 <br>
 - 🌱 I’m currently learning Javascript and HTML.
 <br>
