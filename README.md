@@ -1,7 +1,13 @@
-            👋 Hey guys, I’m @hendellcosta
-- 👀 I’m interested in Node.js...
+<div class="title">
+<h1>-👋 Hey guys, I’m @hendellcosta </h1>
+</div>
+
+<div class="body">
+<p>- 👀 I’m interested in Node.js...
+<br>
 - 🌱 I’m currently learning Javascript and HTML.
-- 📫 How to reach me | Hendell#5620...
+<bar>
+- 📫 How to reach me | Hendell#5620...</p>
 
 <!---
 hendellcosta/hendellcosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
