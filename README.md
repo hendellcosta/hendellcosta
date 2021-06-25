@@ -6,8 +6,8 @@
 <p>- 👀 I’m interested in Node.js...
 <br>
 - 🌱 I’m currently learning Javascript and HTML.
-<bar>
-- 📫 How to reach me | Hendell#5620...</p>
+<br>
+- 📫 How to reach me | Discord: Hendell#5620...</p>
 
 <!---
 hendellcosta/hendellcosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
