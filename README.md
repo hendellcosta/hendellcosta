@@ -3,11 +3,11 @@
 </div>
 
 <div class="body">
-<p>- 👀 I’m interested in Node.js.
+<p>- 👀 I’m interested in ReactJS.
 <br>
 - 🌱 I’m currently learning Javascript and HTML.
 <br>
-- 📫 How to reach me | Discord: Hendell#5620...</p>
+- 📫 How to reach me | Discord: Hendell Costa#0016</p>
 
 <!---
 hendellcosta/hendellcosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
