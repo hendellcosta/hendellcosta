@@ -3,6 +3,16 @@
 <p align="center"><h4 align="center"><samp> A Junior Front End Developer & A Student</samp></h4></p>
 <br>
 
+<div align="center">
+  <a href="https://github.com/hendellcosta">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hendellcosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendellcosta&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  </a>
+  
+  
+  
+
 <div>
   
   
@@ -11,4 +21,8 @@
 - 💬 <samp>Ask me about HTML.
 </div>
   
-  <h4><b><samp>Programming</samp></b></h4>
+  <!-- <div><h4><b><samp>Programming Languages</samp></b></h4> --!>
+  <div style="display: inline_block"><br>
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  </div>
