@@ -1,21 +1,14 @@
-<div class="title">
-<h1>-👋 Hey guys, I’m @hendellcosta </h1>
+<p align="center"><samp><b> Hey guys! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </b></samp></p>
+<p align="center"><h1 align="center"><samp> I am <a>Hendell Costa </a> </samp></h1></p>
+<p align="center"><h4 align="center"><samp> A Junior Front End Developer & A Student</samp></h4></p>
+<br>
+
+<div>
+  
+  
+- 🔭 <samp>I’m currently learning ReactJS.
+- 😄 <samp>Talk with me via <a href="https://discord.com/users/742275700358381689">Discord</a>
+- 💬 <samp>Ask me about HTML.
 </div>
-
-<div class="body">
-<p>- 👀 I’m interested in ReactJS.
-<br>
-- 🌱 I’m currently learning Javascript and HTML.
-<br>
-- 📫 How to reach me | Discord: Hendell#0016</p>
-
-<!---
-hendellcosta/hendellcosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<!-- - 👋 Hi, I’m @hendellcosta
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... --!>
+  
+  <h4><b><samp>Programming</samp></b></h4>
