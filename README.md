@@ -16,7 +16,7 @@
 <div>
   
   
-- 🔭 <samp>I’m currently learning Python.
+- 🔭 <samp>I’m currently learning ReactJS.
 - 😄 <samp>Talk with me via <a href="https://discord.com/users/742275700358381689">Discord</a>
 - 💬 <samp>Ask me about HTML.
 </div>
