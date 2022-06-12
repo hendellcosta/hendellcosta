@@ -18,7 +18,7 @@
   
 - 🔭 <samp>I’m currently learning ReactJS.
 - 😄 <samp>Talk with me via <a href="https://discord.com/users/742275700358381689">Discord</a>
-- 💬 <samp>Ask me about HTML.
+- 💬 <samp>Ask me about JavaScript.
 </div>
   
   <!-- <div><h4><b><samp>Programming Languages</samp></b></h4> --!>
